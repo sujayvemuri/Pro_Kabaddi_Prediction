@@ -18,7 +18,7 @@ Task 7: Predict the player with the highest SUCCESSFUL TACKLE percentage.
 
 Step1: Scrap data from Prokabaddi website
 
-Step2: Data was highly imbalanced so we use SMOTE(Synthetic modeling over sampling) technique to balance the dataframe.
+Step2: Data was highly imbalanced so we use SMOTE(Synthetic minority over sampling) technique to balance the dataframe.
 
 Step3: Here we use XGBoost to train and get high accuracy of our model 
 
