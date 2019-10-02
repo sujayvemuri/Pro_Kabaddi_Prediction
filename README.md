@@ -18,4 +18,11 @@ Task 7: Predict the player with the highest SUCCESSFUL TACKLE percentage.
 
 Step1: Scrap data from Prokabaddi website
 
-Step2: After getting data from website we made a model using season 1 to seasson 6, and that model we used to predict Season 7 to get Winner,Top team in points table,team with successful Raids,team with successful tackles,team with Super performance,Player with successful Raids percentage and Player with highest successful Tackle.
+Step2: Data was highly imbalanced so we use SMOTE(Synthetic modeling over sampling) technique to balance the dataframe.
+
+Step3: Here we use XGBoost to train and get high accuracy of our model 
+
+Step4: Once model done we used that model to predict Season 7 to get Winner,Top team in points table,team with successful Raids,team with successful tackles,team with Super performance,Player with successful Raids percentage and Player with highest successful Tackle.
+
+
+===================================Thank You==============================================
