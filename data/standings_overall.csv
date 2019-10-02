@@ -1,0 +1,69 @@
+season,rank,team,played,won,lost,draw,scorediff,points
+1,1,Jaipur Pink Panthers,14,10,3,1,0,54
+1,2,U Mumba,14,8,3,3,0,51
+1,3,Bengaluru Bulls,14,8,5,1,0,47
+1,4,Patna Pirates,14,7,5,2,0,45
+1,5,Telugu Titans,14,6,5,3,0,42
+1,6,Dabang Delhi K.C.,14,5,8,1,0,32
+1,7,Bengal Warriors,14,4,9,1,0,24
+1,8,Puneri Paltan,14,2,12,0,0,17
+2,1,U Mumba,14,12,2,0,40,60
+2,2,Telugu Titans,14,8,3,3,85,50
+2,3,Bengaluru Bulls,14,9,5,0,55,48
+2,4,Patna Pirates,14,7,6,1,-18,41
+2,5,Jaipur Pink Panthers,14,6,7,1,43,38
+2,6,Bengal Warriors,14,4,9,1,-63,27
+2,7,Dabang Delhi K.C.,14,4,9,1,-68,27
+2,8,Puneri Paltan,14,2,11,1,-74,21
+3,1,U Mumba,14,12,2,0,95,60
+3,2,Patna Pirates,14,10,2,2,104,58
+3,3,Puneri Paltan,14,7,4,3,92,48
+3,4,Bengal Warriors,14,9,5,0,26,47
+3,5,Telugu Titans,14,7,7,0,-10,38
+3,6,Jaipur Pink Panthers,14,4,8,2,-63,28
+3,7,Bengaluru Bulls,14,2,12,0,-102,14
+3,8,Dabang Delhi K.C.,14,1,12,1,-142,11
+4,1,Patna Pirates,14,10,4,0,14,52
+4,2,Telugu Titans,14,8,4,2,67,50
+4,3,Jaipur Pink Panthers,14,8,5,1,22,47
+4,4,Puneri Paltan,14,6,6,2,23,42
+4,5,U Mumba,14,7,6,1,-18,42
+4,6,Bengaluru Bulls,14,5,8,1,-55,32
+4,7,Dabang Delhi K.C.,14,4,9,1,7,29
+4,8,Bengal Warriors,14,3,9,2,-60,26
+5,1,Gujarat Fortunegiants,22,15,4,3,126,87
+5,2,Puneri Paltan,22,15,7,0,91,80
+5,3,Haryana Steelers,22,13,5,4,40,79
+5,1,Bengal Warriors,22,11,5,6,19,77
+5,2,Patna Pirates,22,10,7,5,60,71
+5,3,U.P. Yoddha,22,8,10,4,2,60
+5,4,U Mumba,22,10,12,0,-50,56
+5,5,Jaipur Pink Panthers,22,8,13,1,-91,51
+5,6,Dabang Delhi K.C.,22,5,16,1,-134,38
+5,4,Bengaluru Bulls,22,8,11,3,10,57
+5,5,Telugu Titans,22,7,12,3,-2,52
+5,6,Tamil Thalaivas,22,6,14,2,-71,46
+6,1,Gujarat Fortunegiants,22,17,3,2,117,93
+6,2,U Mumba,22,15,5,2,189,86
+6,3,Dabang Delhi K.C.,22,11,9,2,-1,68
+6,1,Bengaluru Bulls,22,13,7,2,104,78
+6,2,Bengal Warriors,22,12,8,2,2,69
+6,3,U.P. Yoddha,22,8,10,4,-45,57
+6,4,Puneri Paltan,22,8,12,2,-45,52
+6,5,Jaipur Pink Panthers,22,6,13,3,-69,43
+6,6,Haryana Steelers,22,6,14,2,-91,42
+6,4,Patna Pirates,22,9,11,2,-36,55
+6,5,Telugu Titans,22,8,13,1,-55,51
+6,6,Tamil Thalaivas,22,5,13,4,-70,42
+7,1,Dabang Delhi K.C.,19,15,2,2,92,82
+7,2,Bengal Warriors,19,12,4,3,86,73
+7,3,Haryana Steelers,19,12,6,1,24,65
+7,4,Bengaluru Bulls,19,10,8,1,12,58
+7,5,U.P. Yoddha,18,10,6,2,-19,58
+7,6,U Mumba,18,9,8,1,33,54
+7,7,Jaipur Pink Panthers,20,8,10,2,-18,52
+7,8,Gujarat Fortunegiants,20,6,12,2,14,45
+7,9,Puneri Paltan,20,6,11,3,-71,42
+7,10,Patna Pirates,19,6,12,1,-1,40
+7,11,Telugu Titans,18,5,10,3,-39,39
+7,12,Tamil Thalaivas,19,3,13,3,-113,30
